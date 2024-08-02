@@ -1,2 +1,2 @@
 print("prasanth")
-print("kumar")
+print("kum")
